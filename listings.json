@@ -35,7 +35,7 @@
             "id": "photoface",
             "name": "Photo Face",
             "screenshots": [
-                "https://raw.githubusercontent.com/InfiniTimeOrg/InfiniLink/69b00ed01d85bc4ce065e6e27964d086534622e3/gallery/screenshots/digitalFace1.png",
+                "/screenshots/digitalFace1.png",
                 "https://dummyimage.com/240x240/000/ffffff",
                 "https://example.com",
                 "https://example.com"
