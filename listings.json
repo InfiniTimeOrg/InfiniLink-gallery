@@ -12,10 +12,7 @@
             ],
             "description": "Lorem ipsum...",
             "shortDescription": "A port of wasp-os's sleep tracker",
-            "author": "CyberNeel",
-            "prNumber": 2217,
-            "firmwareZipURL": "https://github.com/InfiniTimeOrg/InfiniTime/xxxxxxxxxx",
-            "resourcesZipURL": "https://github.com/InfiniTimeOrg/InfiniTime/xxxxxxxxxx"
+            "prNumber": 2217
         }
     ],
     "watchfaces": [
@@ -24,10 +21,7 @@
             "name": "Binary",
             "description": "Lorem ipsum...",
             "shortDescription": "Lorem ipsum...",
-            "author": "Zetabite",
-            "prNumber": 1910,
-            "firmwareZipURL": "https://github.com/InfiniTimeOrg/InfiniTime/xxxxxxxxxx",
-            "resourcesZipURL": "https://github.com/InfiniTimeOrg/InfiniTime/xxxxxxxxxx"
+            "prNumber": 1910
         },
         {
             "id": "photoface",
@@ -40,7 +34,6 @@
             ],
             "description": "This watch face adds support for a custom background image via external resources.\n\nTo set a background image, upload a converted image named watchface.bin to a directory named gallery.\n\nYou can also customize text color and position by long pressing on the watch face.",
             "shortDescription": "Digital face with a user-set background image",
-            "author": "JenJell",
             "prNumber": 2028
         }
     ]
