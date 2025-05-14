@@ -10,7 +10,6 @@
                 "https://example.com",
                 "https://example.com"
             ],
-            "description": "Lorem ipsum...",
             "shortDescription": "A port of wasp-os's sleep tracker",
             "prNumber": 2217
         }
@@ -19,7 +18,6 @@
         {
             "id": "binaryface",
             "name": "Binary",
-            "description": "Lorem ipsum...",
             "shortDescription": "Lorem ipsum...",
             "prNumber": 1910
         },
@@ -27,10 +25,8 @@
             "id": "photoface",
             "name": "Photo Face",
             "screenshots": [
-                "/screenshots/digitalFace1.png",
-                "https://dummyimage.com/240x240/000/ffffff",
-                "https://example.com",
-                "https://example.com"
+                "/screenshots/photoface/1.png",
+                "/screenshots/digitalFace1.png"
             ],
             "description": "This watch face adds support for a custom background image via external resources.\n\nTo set a background image, upload a converted image named watchface.bin to a directory named gallery.\n\nYou can also customize text color and position by long pressing on the watch face.",
             "shortDescription": "Digital face with a user-set background image",
